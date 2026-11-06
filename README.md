@@ -1,0 +1,1 @@
+# Accelerating-Neural-Network-Training-with-Augmented-Koopman-Dynamics
